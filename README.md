@@ -25,7 +25,7 @@ export DEEP_SEEK_API_KEY=${你的deepseek_api_key}
 export DASH_SCOPE_API_KEY=${你的阿里百炼_api_key}
 export PINECONE_API_KEY=${你的pinecone_api_key}
 ```
-2.除了pinecone是云上的，其余的存储都建议放在Docker里（避免本机各种不兼容，踩了很多坑..）
+2.除了pinecone是云上的，其余的存储都建议放在Docker里（避免本机各种不兼容，踩过很多坑..）
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/ab2bbb6f-9623-4c1c-9ae6-6672dd4549a8" />
 
 3.使用的一些官方网站：
