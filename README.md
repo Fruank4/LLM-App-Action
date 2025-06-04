@@ -12,10 +12,10 @@
 模型：DeepSeek、Ollama、chatGpt-4o、Qwen-embedding-text、Huggingface、
 
 整体结构如下，详情可以参考**README.pdf**
-<img width="1276" alt="image" src="https://github.com/user-attachments/assets/217df64c-781b-421a-a684-8c0c7df54413" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/217df64c-781b-421a-a684-8c0c7df54413" />
 
-如有问题，欢迎联系～
-![image](https://github.com/user-attachments/assets/58d5a9c8-d1c9-4f4b-ace1-a44264e50c46)
+如有问题，欢迎交流～
+🛰️：kok657576638
 
 
 
