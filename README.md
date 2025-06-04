@@ -1,3 +1,17 @@
+**如果想在你的本地运行起来，需要添加一些API_KEY到环境变量中**
+
+```sh
+export DEEP_SEEK_API_KEY=${你的deepseek_api_key}
+export DASH_SCOPE_API_KEY=${你的阿里百炼_api_key}
+export PINECONE_API_KEY=${你的pinecone_api_key}
+```
+
+**除了pinecone是云上的，其余的存储都建议放在Docker里**（可能会有版本不兼容的问题）
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/ab2bbb6f-9623-4c1c-9ae6-6672dd4549a8" />
+
+
+===============================================================================================
+
 #### 背景介绍
 🤖️本项目是基于Java语言开发的一款服务端应用
 
