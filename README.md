@@ -11,7 +11,7 @@
 
 模型：DeepSeek、Ollama、chatGpt-4o、Qwen-embedding-text、Huggingface、
 
-整体结构如下，详情可以参考**README.pdf**
+整体结构如下，详情可以参考**[README.pdf](https://github.com/Fruank4/LLM-App-Action/blob/main/README.pdf)**
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/217df64c-781b-421a-a684-8c0c7df54413" />
 
 如有问题，欢迎交流～
